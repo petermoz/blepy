@@ -1,3 +1,5 @@
+ble.py
+uart.so
 *.py[co]
 
 # Packages
